@@ -28,12 +28,3 @@ while not bidding_finished:
     clear()
   
 
-"""
-FAQ: My console doesn't clear()
-
-This will happen if you’re using an IDE other than replit. 
-You can write your own clear() function or configure your IDE like so: 
-
-https://www.udemy.com/course/100-days-of-code/learn/lecture/19279420#questions/16084076
-
-"""
